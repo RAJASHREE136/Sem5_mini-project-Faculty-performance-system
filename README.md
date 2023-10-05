@@ -1,1 +1,1 @@
-# Sem5_mini-project-Faculty-performance-system
+# Sem5_Mini_Project
